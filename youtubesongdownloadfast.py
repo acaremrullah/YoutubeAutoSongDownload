@@ -1,5 +1,3 @@
-#!/usr/bin/python3
-from __future__ import unicode_literals
 import youtube_dl
 import urllib
 import urllib.request
